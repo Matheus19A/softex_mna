@@ -2,10 +2,12 @@ Fisica:
 1°aristoteles
 2°platao
 3°socrates
+
 Matematica:
 1°socrates
 2°platao
 3°aristoteles
+
 Quimica:
 1°platao
 2°socrates
