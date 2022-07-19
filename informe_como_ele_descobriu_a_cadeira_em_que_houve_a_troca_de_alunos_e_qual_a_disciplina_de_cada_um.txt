@@ -1,0 +1,7 @@
+Numerando as linhas da ilustração de 1 a 6, de cima para baixo 
+e as colunas marcadas de com caracteres de 'a' a 'f', da esquerda
+para a direita.
+
+Sendo assim, houve uma troce de alunos na cadeira da linha 5, coluna 'e',
+onde antes havia um aluno que gosta de matemática (M), agora há um aluno
+que gosta de português (P)
